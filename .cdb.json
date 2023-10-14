@@ -1,0 +1,12 @@
+{
+    "type": "MOD",
+    "title": "MineClone2.0",
+    "name": "mc20",
+    "short_description": "Minecraft 2.0 features to the game",
+    "dev_state": "ACTIVELY_DEVELOPED",
+    "tags": ["april_fools", "survival"],
+    "license": "GPL-3.0-or-later",
+    "media_license": "CC-BY-SA-4.0",
+    "repo": "https://github.com/C-C-Minetest-Server/mc20",
+    "issue_tracker": "https://github.com/C-C-Minetest-Server/mc20/issues"
+}
