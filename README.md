@@ -1,6 +1,6 @@
 # MineClone2.0, the April Fool's version
 
-This modpack aims to add "features" (read: chaos) added in [Minecraft 2.0](https://minecraft.fandom.com/wiki/Java_Edition_2.0).
+This modpack aims to add "features" (read: chaos) added in [Minec**** 2.0](https://minecraft.fandom.com/wiki/Java_Edition_2.0).
 
 Features done:
 
@@ -10,7 +10,7 @@ Features done:
 
 Features that are actually part of existing gameplay:
 
-* Tinted [Glass](https://minecraft.fandom.com/wiki/Glass): Glass with colors. They are already added in [Minecraft 1.7.2](https://minecraft.fandom.com/wiki/Java_Edition_1.7.2) under the name Stained Glass. Don't be confused with the [Tinted Glass](https://minecraft.fandom.com/wiki/Tinted_glass) added in [Minecraft 1.17](https://minecraft.fandom.com/wiki/Java_Edition_1.17).
+* Tinted [Glass](https://minecraft.fandom.com/wiki/Glass): Glass with colors. They are already added in [Minec**** 1.7.2](https://minecraft.fandom.com/wiki/Java_Edition_1.7.2) under the name Stained Glass. Don't be confused with the [Tinted Glass](https://minecraft.fandom.com/wiki/Tinted_glass) added in [Minec**** 1.17](https://minecraft.fandom.com/wiki/Java_Edition_1.17).
 
 Features not yet implemented:
 
