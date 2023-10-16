@@ -1,4 +1,4 @@
-# MineClone2.0, the April Fool's version
+# MC2.0 for MineClone2, the April Fool's version
 
 This modpack aims to add "features" (read: chaos) added in [Minec**** 2.0](https://minecraft.fandom.com/wiki/Java_Edition_2.0).
 

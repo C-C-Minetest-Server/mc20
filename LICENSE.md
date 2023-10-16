@@ -1,4 +1,4 @@
-# Licenses and legal information of MineClone2.0
+# Licenses and legal information of MC2.0 for MineClone2
 
 This is a fan modpack, not developed or endorsed by Mojang AB.
 
