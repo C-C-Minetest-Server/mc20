@@ -27,5 +27,5 @@ Features not yet implemented:
 
 Features waiting for MineClone 2 or Minetest Engine features:
 
-* [Redstone Bug](https://minecraft.fandom.com/wiki/Redstone_Bug): Retextured [silverfish](https://minecraft.fandom.com/wiki/Silverfish), spawns when Redstone strength increases. Since the Redstone system in MineClone 2 is not yet well-implemented, it is impossible to this feature to function properly.
+* [Redstone Bug](https://minecraft.fandom.com/wiki/Redstone_Bug): Retextured [silverfish](https://minecraft.fandom.com/wiki/Silverfish), spawns when Redstone strength increases. Since the Redstone system in MineClone 2 is not yet well-implemented, it is impossible for this feature to function properly.
 * Super HD Graphics: Makes all textures monochrome. It is currently impossible to change block textures on the fly, and creating a copy of all textures is impractical and would be incompatible with non-MineClone mods.
